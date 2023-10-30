@@ -1,1 +1,1 @@
-This is a model which can predict the number of people supposed to be survive over the Titanic incident ,someone thinks they travel into parallel world 
+This is a model which can predict the number of people supposed to be survive over the Titanic incident ,someone thinks they travel into parallel world ,others don't think so
